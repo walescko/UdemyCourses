@@ -6,16 +6,16 @@ body{
 
 h1 {
     text-align: center;
-    font-family: sans-serif; color: #9fcdff; text-transform: uppercase;
+    font-family: sans-serif; color: #9fff0f; text-transform: uppercase;
     margin: auto;
     width: 250px;
 }
 h2 {
     text-align: center;
-    font-family: sans-serif; color: #9fcdff; text-transform: uppercase;
+    font-family: sans-serif; color: #9fff0f; text-transform: uppercase;
 }
-h3 {text-align: center; text-transform: capitalize}
-h4 {text-align: center; font-family: serif; color: #b8daff; text-decoration: underline}
+h3 {text-align: center; text-transform: capitalize; color: #9fcdf0;}
+h4 {text-align: center; font-family: serif; color: #b8daff;}
 h5 {text-align: center;}
 h6 {text-align: center;}
 p  {
@@ -25,7 +25,7 @@ p  {
     font-style: normal;
     font-variant: normal;
     color: #9fffff;
-    padding-left: 40px; padding-right: 40px; padding-bottom: 5px; padding-top: 5px;
+    /*padding-left: 40px; padding-right: 40px; padding-bottom: 5px; padding-top: 5px;*/
     background-color: #0c5460;
 }
 
@@ -34,5 +34,20 @@ ul{
     color:#9fffff; text-align: center;
     list-style-position: inside;
 }
+
+a {
+    color: #0b2e13;
+    text-decoration: none;
+}
+a:link{color:wheat;}
+a:visited{color:wheat;}
+a:hover{
+    color:yellowgreen;
+    background-color: cornflowerblue;
+    text-decoration: underline;
+}
+a:active{color:darkred}
+
+#WalesckoRodape{color:#39b3d7;text-align: center; padding: 30px 0;}
 
 #WalesckoRodape{color:#39b3d7;text-align: center; padding: 30px 0;}
