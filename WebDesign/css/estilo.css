@@ -1,6 +1,6 @@
 body{
     border-color: #b8daff; border-style: solid; border-width: 2px;
-    background-color: #491217;
+    background-color: #0f0fff;
 
     margin-left: 30px; margin-right: 30px; margin-bottom: 30px; margin-top: 30px;
 }
@@ -19,11 +19,22 @@ p  {
     font-family: Arial, sans-serif;
     font-style: normal;
     font-variant: normal;
-    color: #9fcdff;
+    color: #9fcdf0;
     padding-left: 40px; padding-right: 40px; padding-bottom: 5px; padding-top: 5px;
-    background-color: #004085;
+    background-color: #0f0fff;
 }
 strong {font-family: sans-serif, monospace;}
+a {
+    color: #0b2e13;
+    text-decoration: none;
+}
+a:link{color:wheat;}
+a:visited{color:wheat;}
+a:hover{
+    color:yellowgreen;
+    background-color: cornflowerblue;
+}
+a:active{color:darkred}
 
 #WalesckoRodape{color:#39b3d7;text-align: center; padding: 30px 0;}
 .destaque{color: #ffe8a1; font-family: "Times New Roman";}
