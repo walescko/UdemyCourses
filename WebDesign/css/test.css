@@ -1,0 +1,23 @@
+body {background-color: #9fcdff}
+p{
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+h1{
+    border-top: 5px;
+    border-right: 4px;
+    border-bottom: 3px;
+    border-left: 2px;
+    border-style: solid;
+}
+
+h2{
+    padding-top: 6px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    padding-block-start: 6px;
+}
