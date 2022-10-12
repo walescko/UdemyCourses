@@ -10,7 +10,7 @@ h1 {
     text-align: center;
     font-family: sans-serif; color: #9fff0f; text-transform: uppercase;
     margin: auto;
-    width: 250px;
+
 }
 h2 {
     text-align: center;
@@ -55,4 +55,5 @@ a:active{color:darkred}
 
 .lightDark-mode {
     background-color: #000000;
+    color: #ffffff;
 }
