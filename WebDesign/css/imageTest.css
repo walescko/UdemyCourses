@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif; font-size: 22px;
+    /*border-color: #000fff; border-style: solid; border-width: 2px;*/
+    background-color: #f8d7da;
+    /*width: 800px;*/
+    margin: auto;
+    /*margin-left: 30px; margin-right: 30px; margin-bottom: 30px; margin-top: 30px;*/
+    background-image: url(../imagens/balnearioCamboriu.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position: right bottom; 
+
+}
+.img-left{float: left;}
+.img-right{float: right}
+
+h1 {text-align: center; font-family: sans-serif; color:#0000ff; text-transform: uppercase}
+h2 {
+    text-align: center; font-family: sans-serif; color:#000fff; text-transform: uppercase;
+    /*border-color: #b8daff; border-style: solid; border-width: 2px;*/
+}
+h3 {text-align: center; text-transform: capitalize; font-family: serif; color: #b800ff;}
+h4 {text-align: center; font-family: Arial; color: #b800ff;}
+h5 {text-align: center;}
+h6 {text-align: center;}
+p  {
+    text-align: justify-all;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    color: #ffffff;
+    padding-left: 40px; padding-right: 40px; padding-bottom: 5px; padding-top: 5px;
+    line-height: 1.5;
+}
+strong {font-family: sans-serif, monospace;}
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:link{color: #007bff;}
+a:visited{color: #007bff;}
+a:hover{
+    text-decoration: underline;
+    color: #000fff;
+    background-color: #ffe8a1;
+}
+a:active{color:darkred}
+
+#WalesckoRodape{color:#39b3d7;text-align: center; padding: 30px 0;}
+.destaque{color: #ffc10f; font-family: "Times New Roman";}
+
+
+
+
+
