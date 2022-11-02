@@ -1,6 +1,6 @@
 body{
     border-color: #000fff; border-style: solid; border-width: 2px;
-    background-color: #f8d7da;
+    /*background-color: #f8d7da;*/
 
     margin-left: 30px; margin-right: 30px; margin-bottom: 30px; margin-top: 30px;
 }
@@ -69,10 +69,10 @@ a:active{color:darkred}
     border-radius: 0.25rem;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 
-    color: #ffffff;
+    color: #ffc10f;
     background-color: transparent;
     background-image: none;
-    border-color: #ffffff;
+    border-color: #ffc10f;
 }
 
 
