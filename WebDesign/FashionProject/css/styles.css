@@ -1,11 +1,35 @@
+body{
+    font-family: arial, sans-serif;
+    background-color: #ccc;
+    margin:0px;
+}
+
 header{
     background-color: rgba(0,0,0, .7);
     height: 40px;
+    float: top;
+
 }
 
-.img-header{
-    margin-left: 250px;
+.img-logo{
+    height: 40px;
     overflow: auto;
+    position: relative;
+    left: 200px;
+}
+
+.img-background{
+    background-image: url("../images/topo.jpg");
+    height: 500px;
+    background-size: cover;
+
+
+
+}
+.div-top-menu{
+    background-color: rgba(0,0,0, .7);
+    height: 40px;
+    float: top;
 }
 .nav-Right{
     text-align: right;
@@ -22,7 +46,6 @@ header{
     list-style: none;
     margin-left: 10px;
     margin-top: 0;
-
 }
 .nav-Right a{
     display: block;
@@ -44,3 +67,4 @@ a:hover{
     text-decoration: none;
     color: #ffe8a1;
 }
+
